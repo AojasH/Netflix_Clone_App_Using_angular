@@ -1,7 +1,7 @@
 
 # Netflix Clone Frontend Project
 
-A frontend project that replicates the Netflix interface. Visit the deployed site [here](https://netflix-clone-adiban.netlify.app/) 🌐🚀
+A frontend project that replicates the Netflix interface.
 
 ## Features
 - **Angular CLI version 16.2.0** 🅰️🔺
